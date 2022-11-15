@@ -1,5 +1,5 @@
 # MVVA-Database
-This repository provides the MVVA database in our ECCV paper "[Learning to Predict Salient Faces: A Novel Visual-Audio Saliency Model]([https://arxiv.org/abs/2207.05273](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650409.pdf))".
+This repository provides the MVVA database in our ECCV paper "[Learning to Predict Salient Faces: A Novel Visual-Audio Saliency Model](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650409.pdf)".
 
 MVVA is a large-scale eye-tracking database of multiple-face video in visual-audio condition. MVVA contains **Eye Movement** data of **34** subjects on **300** videos, as well as the **soud source annotation** in frame level for all 300 videos. 
 
